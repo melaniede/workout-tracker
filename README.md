@@ -4,7 +4,7 @@
 Use Workout Tracker to help you reach your fitness goals and quickly track your workout progress. This application is built with a Mongo database utlizing a Mongoose schema and handle routes with Express.
 
 ### Deployed Application
-Get started on tracking your workouts! [Link to app in Heroku](https://pacific-anchorage-71530.herokuapp.com/).
+Get started on tracking your workouts! [Link to app in Heroku](https://morning-ridge-39904.herokuapp.com/).
 
 ## Fitness Tracker
 <img src="assets/images/fitness_dashboard.png" width="400">
