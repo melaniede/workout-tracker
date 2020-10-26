@@ -7,7 +7,7 @@ Use Workout Tracker to help you reach your fitness goals and quickly track your 
 Get started on tracking your workouts! [Link to app in Heroku](https://pacific-anchorage-71530.herokuapp.com/).
 
 ## Fitness Dashboard
-<img src="public/assets/images/fitness_dashboard.png" width="300" height="300">
+<img src="assets/images/fitness_dashboard.png" width="300" height="300">
 
 ### User Story
 ```
